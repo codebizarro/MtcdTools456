@@ -120,5 +120,3 @@ Due to Lollipop limitations, it is possible that triggering of the voice dispatc
 > Intent action: android.intent.action.VOICE_COMMAND
 
 > Intent Flags: 268435456
->
-> 
